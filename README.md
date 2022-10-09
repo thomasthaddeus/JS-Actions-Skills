@@ -18,7 +18,7 @@
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0-->
+<!--step0
 
 Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow.
 
@@ -38,7 +38,7 @@ Write your own GitHub JavaScript Action and automate customized tasks unique to 
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+endstep0-->
 
 
 <!--
@@ -62,7 +62,7 @@ _In our case, we will use this one **workflow** file for many things, which lead
 
 Read more about [workflows](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#choosing-the-type-of-actions-for-your-workflow)
 
-<details id=1>
+<details id=1 open>
 
 <summary><h2> Step 1: Initialize a new JavaScript project</h2></summary>
 
